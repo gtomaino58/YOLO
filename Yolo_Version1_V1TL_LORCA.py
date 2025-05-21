@@ -268,7 +268,7 @@ C = 3 # TU NÚMERO DE CLASES (0, 1, 2 en tu caso)
 
 # --- Rutas de datos (¡ACTUALIZA ESTAS RUTAS CON LAS TUYAS REALES!) ---
 FULL_CSV_FILE = '/home/224F8578gianfranco/YOLO/annotations_normalized.csv'
-IMG_DIR = 'home/224F8578gianfranco/YOLO/BCCD/'
+IMG_DIR = '/home/224F8578gianfranco/YOLO/BCCD/'
 
 # --- Proporción para la división de datos (si usas un solo CSV) ---
 TRAIN_SPLIT_RATIO = 0.8 
